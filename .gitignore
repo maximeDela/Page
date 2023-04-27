@@ -1,0 +1,10 @@
+*~
+\#*
+argsgdb
+*.o
+*.sh
+*.bin
+*.elf
+build/
+Debug/
+Release/
