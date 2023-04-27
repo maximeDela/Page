@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Je te crois pas 
 
+=======
+Non C'est pas moi.
+>>>>>>> page
