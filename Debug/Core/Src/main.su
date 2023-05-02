@@ -1,0 +1,9 @@
+../Core/Src/main.c:77:5:main	112	static
+../Core/Src/main.c:312:6:SystemClock_Config	80	static
+../Core/Src/main.c:348:13:MX_TIM1_Init	96	static
+../Core/Src/main.c:445:13:MX_TIM3_Init	64	static
+../Core/Src/main.c:527:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:578:5:fourcheoptique	40	static
+../Core/Src/main.c:615:6:StartTask01	32	static
+../Core/Src/main.c:770:6:StartTask02	48	static
+../Core/Src/main.c:1004:6:Error_Handler	8	static,ignoring_inline_asm
